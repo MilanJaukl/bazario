@@ -1,0 +1,17 @@
+{
+    "name": "milanjaukl/bazario",
+    "autoload": {
+        "psr-4": {
+            "Milanjaukl\\Bazario\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Milan Jaukl",
+            "email": "milanjaukl11@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
